@@ -243,4 +243,4 @@ def run():
                 game(numero,dificultad,casillas)
 
 if _name_ == '_main_':
-   run() 
+   run()
